@@ -1,2 +1,2 @@
 # todo-spa
-SPAはVuejs, Vuetify,JavaScriptで作成されています。
+SPAはVuejs,Vuetify,JavaScriptで作成されています。
